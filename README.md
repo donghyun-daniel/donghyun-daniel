@@ -1,8 +1,7 @@
 <br>
 
 ### Leetcode
----
-![Leetcode Stats](https://leetcard.jacoblin.cool/donghyun-daniel)
+![Leetcode Stats](https://leetcard.jacoblin.cool/donghyun-daniel?ext=activity)
 
 <br>
 
