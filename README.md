@@ -1,7 +1,7 @@
 <br>
 
 ### Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/donghyun-daniel?ext=activity)
+[![daniel's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=donghyun-daniel&theme=dark)](https://github.com/donghyun-daniel/PS-LeetCode)
 
 <br>
 
