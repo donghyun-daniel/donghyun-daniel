@@ -1,8 +1,7 @@
 <br>
 
 ### Leetcode
-[![daniel's LeetCode stats](https://leetcard.jacoblin.cool/donghyun-daniel)](https://leetcode.com/donghyun-daniel)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
+[![daniel's LeetCode stats](https://leetcard.jacoblin.cool/donghyun-daniel?ext=contest)
 <br>
 
 ### BOJ
