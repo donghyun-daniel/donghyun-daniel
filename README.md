@@ -1,7 +1,7 @@
 <br>
 
 ### Tech Stack
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/donghyunmain/main)
+<a data-theme="dark" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/edc0cd2dcbbd775922b5f9576e4939"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 <br>
 
 ### Leetcode
