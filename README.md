@@ -1,7 +1,7 @@
 <br>
 
 ### Tech Stack
-[![My Tech Stack](https://embed.stackshare.io/stacks/embed/edc0cd2dcbbd775922b5f9576e4939)](https://stackshare.io/yourusername/your-stack-name)
+[![My Tech Stack](https://embed.stackshare.io/stacks/embed/edc0cd2dcbbd775922b5f9576e4939)](https://stackshare.io/donghyunmain/main)
 
 
 <br>
