@@ -39,9 +39,11 @@
 ### 💼 Business & Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-FC636B?style=for-the-badge&logo=asana&logoColor=white)
+<br>
 
 ## Leetcode
 [![daniel's LeetCode stats](https://leetcard.jacoblin.cool/donghyun-daniel?ext=contest)](https://github.com/donghyun-daniel/PS-LeetCode)
+<br>
 
 ## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zidane92)](https://solved.ac/zidane92e)
