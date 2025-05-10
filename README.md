@@ -1,5 +1,5 @@
 ### Tech Stack
-[![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-View%20on%20StackShare-blue?style=for-the-badge&logo=stackshare)](https://stackshare.io/YOUR_USERNAME/YOUR_STACK_NAME)
+[![My Tech Stack](https://img.shields.io/badge/My%20Tech%20Stack-View%20on%20StackShare-blue?style=for-the-badge&logo=stackshare)](https://stackshare.io/danieliii6contact/my-stack)
 
 ### Leetcode
 [![daniel's LeetCode stats](https://leetcard.jacoblin.cool/donghyun-daniel?ext=contest)](https://github.com/donghyun-daniel/PS-LeetCode)
