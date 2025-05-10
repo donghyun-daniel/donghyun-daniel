@@ -1,8 +1,7 @@
 <br>
 
 ### Tech Stack
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/danieliii6contact/my-stack)
-
+<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/5703b0d718e5522542d9b41ff7efeb"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 <br>
 
