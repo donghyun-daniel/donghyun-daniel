@@ -1,7 +1,7 @@
 <br>
 
 ### Tech Stack
-[![Tech Stack]([![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/danieliii6contact/my-stack))
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/danieliii6contact/my-stack)
 
 
 <br>
